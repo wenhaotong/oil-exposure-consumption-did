@@ -1,0 +1,17 @@
+                               Continuous_baseline          Exposure_2019      Baseline_with_gas Exposure_2019_with_gas             Binary_DID
+Dependent Var.:             spend_nondurables_mean spend_nondurables_mean spend_nondurables_mean spend_nondurables_mean spend_nondurables_mean
+                                                                                                                                              
+exposure_std x post              -0.0042. (0.0021)                             -0.0041. (0.0021)                                              
+exposure_2019_scaled x post                             -0.0050. (0.0025)                             -0.0050. (0.0025)                       
+gas_price                                                                        0.0015 (0.0153)        0.0015 (0.0153)                       
+high x post                                                                                                                   -0.0028 (0.0086)
+Fixed-Effects:              ---------------------- ---------------------- ---------------------- ---------------------- ----------------------
+statefips                                      Yes                    Yes                    Yes                    Yes                    Yes
+week_end                                       Yes                    Yes                    Yes                    Yes                    Yes
+___________________________ ______________________ ______________________ ______________________ ______________________ ______________________
+S.E.: Clustered                      by: statefips          by: statefips          by: statefips          by: statefips          by: statefips
+Observations                                 2,700                  2,700                  2,700                  2,700                  1,944
+R2                                         0.85606                0.85624                0.85607                0.85625                0.84097
+Within R2                                  0.00433                0.00559                0.00436                0.00561                0.00048
+---
+Signif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1

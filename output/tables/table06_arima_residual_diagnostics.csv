@@ -1,0 +1,4 @@
+"Model","Ljung_Box_p","Result"
+"fast",0.276270551814115,"Pass"
+"thorough",0.692557999599964,"Pass"
+"random_walk",0.276270551814115,"Pass"

@@ -1,0 +1,6 @@
+"Variable","Unit","Level","N","Mean","SD","Min","Median","Max"
+"Non-durable spending: full sample","% change from baseline","State-week",2700,19.3986217539683,8.21132759026134,-8.98857142857143,19.5714285714286,54
+"Non-durable spending: pre-war","% change from baseline","State-week",1350,16.2135964074074,7.37331521649559,-8.98857142857143,16.1357142857143,40.5714285714286
+"Non-durable spending: post-war","% change from baseline","State-week",1350,22.5836471005291,7.76094025650794,-4.82428571428571,22.4928571428571,54
+"Petroleum exposure: 2019-2021 average","Barrels per capita per year","State",50,23.4333333333333,13.0511535011182,12.1666666666667,19.7166666666667,87.1666666666667
+"Standardized petroleum exposure","Standard deviations","State",50,-1.34766330039948e-17,1,-0.863269799539277,-0.284776871741507,4.88334868851804
