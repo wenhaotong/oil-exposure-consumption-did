@@ -4,7 +4,7 @@
 
 In this project, I examine whether changes in non-durable consumer spending after the outbreak of the Russia-Ukraine war in 2022 differed across U.S. states according to their pre-war petroleum consumption exposure. I combine spending, petroleum consumption, and energy price data and use a continuous-exposure difference-in-differences (DID) model to investigate these differences. I assess the findings through trend tests and alternative model specifications.
 
-This repository presents my work in data cleaning, state-week panel construction, time-series forecasting, econometric analysis, and visualization. The main analysis corresponds to `final work.R`. The inventories below document the current script and accompanying export routines; the listed files are generated after the analysis and export code run successfully.
+This repository presents my work in data cleaning, state-week panel construction, time-series forecasting, econometric analysis, and visualization. The main analysis corresponds to `final work(10).R`. The inventories below document the current script and accompanying export routines; the listed files are generated after the analysis and export code run successfully.
 
 ## 1. Research Approach
 
@@ -63,7 +63,7 @@ For the 2019 exposure specification, I continue to use the standard deviation of
 | Path | Contents |
 |---|---|
 | `README.md` | Project overview and reproduction instructions |
-| `final work.R` | Current main analysis script |
+| `final work(10).R` | Current main analysis script |
 | `data/raw/` | Archive location for original input files |
 | `data/interim/` | Rebuildable cleaning and matching outputs |
 | `data/derived/` | Data used directly for regressions, tests, and supporting analysis |
